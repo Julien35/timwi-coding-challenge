@@ -1,0 +1,31 @@
+.accordion-heading {
+  background-color: #dde7ed !important;
+}
+
+.no-outline {
+  outline: none !important;
+}
+
+.is-borderless {
+  border: none !important;
+}
+
+.form-label {
+  font-weight: 600;
+  display: inline-block;
+  max-width: 100%;
+  margin-bottom: 5px;
+}
+
+.form-label-mandatory:after {
+  content: " *";
+  color: #a94442;
+}
+
+.width-80 {
+  width: 80%;
+}
+
+.width-100 {
+  width: 100%;
+}

@@ -1,0 +1,52 @@
+export const data = {
+  items: [
+    {
+      id: 464,
+      title: "Titre 1",
+      artist: "artist 1",
+      image: "/notes.jpg",
+      date: new Date(),
+      length: 564,
+    },
+    {
+      id: 45646,
+      title: "Titre 2",
+      artist: "artist 2",
+      image: "/notes.jpg",
+      date: new Date(),
+      length: 546,
+    },
+    {
+      id: 546469,
+      title: "Titre 3",
+      artist: "artist 3",
+      image: "/notes.jpg",
+      date: new Date(),
+      length: 146,
+    },
+    {
+      id: 48469,
+      title: "Titre 4",
+      artist: "artist 4",
+      image: "/notes.jpg",
+      date: new Date(),
+      length: 313,
+    },
+    {
+      id: 46468,
+      title: "Titre 5",
+      artist: "artist 5",
+      image: "/notes.jpg",
+      date: new Date(),
+      length: 124,
+    },
+    {
+      id: 89464,
+      title: "Titre 6",
+      artist: "artist 6",
+      image: "/notes.jpg",
+      date: new Date(),
+      length: 123,
+    },
+  ],
+};
